@@ -12,6 +12,8 @@ Please note; it would be normal to have several of these spreadsheets, each with
 
 ## How to Use
 
+First, [download the spreadsheet here](https://github.com/jfalken/org_security_baseline/archive/1.0.zip), or from the [releases](https://github.com/jfalken/org_security_baseline/releases) section.
+
 Instructions are on the first page of the excel spreadsheet.
 
 1. Determine the Scope you want to assess
